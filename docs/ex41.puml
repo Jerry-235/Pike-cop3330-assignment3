@@ -1,0 +1,21 @@
+@startuml
+abstract class main {
+    +scanner
+   +array
+   +read names and sort
+   try for success
+
+}
+class writeNames {
+    +file writer
+    +output to .txt
+
+}
+class readNames {
+    +while input exist
+    +add to new line
+}
+main <|-- writeNames
+readNames --> writeNames
+main <|-- readNames
+@enduml

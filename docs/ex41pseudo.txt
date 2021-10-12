@@ -1,0 +1,23 @@
+package ex41
+import
+class ex41
+function scan names
+scanner
+scan names
+loop add names from input
+
+function print names
+file writer output
+write name.size
+format lines
+close
+
+main
+scanner input excersise 41.txt
+array 
+sort by alphabet
+
+try
+print
+catch
+error

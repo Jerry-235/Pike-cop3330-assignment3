@@ -1,0 +1,17 @@
+package ex44
+import
+
+class ex44
+main
+json parser
+try 
+read input.json
+read ojects/subjects
+new buffered reader
+
+string input
+what is name? 
+iterator
+loop iterator get name
+if name = input print info
+else print product not found

@@ -1,0 +1,16 @@
+package ex45
+import
+
+class ex45
+main string args[]
+scanner file
+string input
+enter output name
+writer new string name
+
+try
+while full
+replace "utilize" with use
+write
+
+close

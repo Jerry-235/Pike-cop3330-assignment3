@@ -1,0 +1,24 @@
+package ex42
+import
+
+class ex42
+function read names
+loop add names to list
+
+
+function write names
+file writer output
+write name.size
+format lines
+loop write from string
+close
+
+main
+scanner input excersise 41.txt
+array 
+sort by alphabet
+
+try
+print
+catch
+error

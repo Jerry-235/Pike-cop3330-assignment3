@@ -1,0 +1,23 @@
+package ex43
+import
+
+class ex43
+main
+new scanner
+define strings
+define char
+input site name
+input author
+input folder for javascript
+input folder for css
+File website new
+
+if created
+skeleton writer
+set title/body
+close
+if yes for java creeate new file
+if yes for css create new file
+
+exception
+error

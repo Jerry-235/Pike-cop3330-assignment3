@@ -1,0 +1,16 @@
+package ex46
+import
+
+class ex46
+main
+scanner
+map string tree map new hm
+loop
+if contains string from file
+count +1
+else
+next
+
+for count on string 
+print string + * count
+
