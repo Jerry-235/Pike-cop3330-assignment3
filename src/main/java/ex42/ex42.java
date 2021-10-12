@@ -17,7 +17,7 @@ public class ex42 {
 
     public static void writeNames(ArrayList<String> names) throws IOException {
 
-        FileWriter output = new FileWriter("exercise41_output.txt");
+        FileWriter output = new FileWriter("exercise42_output.txt");
         output.write("Total of " + names.size() + " names\n");
         output.write("--------------------\n");
 
@@ -29,7 +29,7 @@ public class ex42 {
 
     public static void main(String[] args) throws FileNotFoundException {
 
-        Scanner inputFile = new Scanner(new File("exercise41_input.txt"));
+        Scanner inputFile = new Scanner(new File("exercise42_input.txt"));
         ArrayList<String> names = new ArrayList<>();
         readNames(inputFile, names);
         names.sort(String.CASE_INSENSITIVE_ORDER);
